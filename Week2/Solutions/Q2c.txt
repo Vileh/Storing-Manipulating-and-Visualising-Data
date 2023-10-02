@@ -1,0 +1,274 @@
+Tue Sep  1 00:03:41.779 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 00:03:42.378 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 07:00:00.973 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 07:00:00.974 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:20:45.754  Tue Sep  1 08:20:45.974 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:20:45.980 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:20:45.997 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:20:46.001 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:20:46.013 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:20:46.038 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:20:46.075 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:20:46.080 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:48:41.096 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:48:41.099 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:48:41.616 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:48:41.616 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:48:48.087 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 08:48:48.111 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 14:52:57.340 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 14:52:57.358 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 14:52:57.859 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 14:52:57.891 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 14:53:06.582 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 14:53:06.595 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 17:55:59.974 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 17:55:59.974 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 17:55:59.982 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 17:56:00.003 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 17:56:00.004 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 17:56:00.050 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 19:11:15.187 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 19:11:15.248 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 19:11:15.348 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 19:11:15.365 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 19:11:15.380 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 19:11:15.390 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:34:54.206 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:34:54.243 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:34:54.272 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:34:54.275 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:34:54.296 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:34:54.409 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:44:25.915 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:44:25.953 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:49:42.390 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:49:42.425 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:49:43.190 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:49:43.190 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:50:58.246 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:50:58.876 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:51:40.817 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Tue Sep  1 21:51:40.822 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 01:00:51.839 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 01:00:51.839 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 01:01:58.239  Wed Sep  2 01:01:58.613 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 01:01:58.619 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 01:01:58.623 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 01:01:58.627 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 01:01:58.628 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 01:01:58.634 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 01:01:58.641 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 01:01:58.646 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 01:02:29.184 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 01:02:29.328 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 06:00:01.794 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 06:00:02.429 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 08:52:35.834  Wed Sep  2 08:52:36.141 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 08:52:36.141 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 08:52:36.154 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 08:52:36.158 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 08:52:36.168 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 08:52:36.169 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 08:52:36.184 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Wed Sep  2 08:52:36.212 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:03:00.025 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:03:00.080 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:04:10.721  Thu Sep  3 02:04:11.008 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:04:11.020 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:04:11.041 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:04:11.042 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:04:11.044 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:04:11.048 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:04:11.077 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:04:11.079 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:19:18.102  Thu Sep  3 02:19:18.342 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:19:18.345 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:19:18.360 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:19:18.362 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:19:18.364 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:19:18.367 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:19:18.368 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:19:18.372 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:34:26.579  Thu Sep  3 02:34:26.780 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:34:26.783 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:34:26.812 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:34:26.812 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:34:26.814 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:34:26.815 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:34:26.847 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:34:26.848 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:49:33.978  Thu Sep  3 02:49:34.187 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:49:34.188 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:49:34.223 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:49:34.225 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:49:34.227 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:49:34.236 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:49:34.290 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 02:49:34.290 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:04:41.129  Thu Sep  3 03:04:41.326 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:04:41.326 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:04:41.366 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:04:41.375 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:04:41.375 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:04:41.376 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:04:41.415 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:04:41.418 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:19:48.889  Thu Sep  3 03:19:49.076 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:19:49.080 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:19:49.106 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:19:49.109 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:19:49.140 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:19:49.142 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:19:49.162 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:19:49.162 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:34:56.145  Thu Sep  3 03:34:56.338 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:34:56.341 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:34:56.359 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:34:56.362 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:34:56.383 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:34:56.385 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:34:56.429 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:34:56.434 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:50:04.080  Thu Sep  3 03:50:04.291 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:50:04.301 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:50:04.326 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:50:04.326 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:50:04.331 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:50:04.332 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:50:04.342 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 03:50:04.344 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 04:05:11.242  Thu Sep  3 04:05:11.481 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 04:05:11.487 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 04:05:11.503 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 04:05:11.503 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 04:05:11.505 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 04:05:11.527 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 04:05:11.527 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 04:05:11.530 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:05:18.052  Thu Sep  3 07:05:18.302 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:05:18.305 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:05:18.308 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:05:18.313 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:05:18.315 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:05:18.318 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:05:18.343 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:05:18.343 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:15:09.052  Thu Sep  3 07:15:09.311 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:15:09.312 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:15:09.325 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:15:09.328 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:15:09.330 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:15:09.367 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:15:09.370 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:15:09.386 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:42:05.041  Thu Sep  3 07:42:05.302 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:42:05.302 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:42:05.332 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:42:05.332 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:42:05.335 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:42:05.336 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:42:05.337 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 07:42:05.339 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 08:52:25.827 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 08:52:25.872 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 08:52:26.933 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 08:52:26.933 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 19:16:26.188 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 19:16:26.373 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 19:25:29.077 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 19:25:29.079 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 19:25:32.996 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 19:25:33.039 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:22:15.944 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:22:16.034 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:23:20.646  Thu Sep  3 22:23:20.921 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:23:20.922 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:23:20.966 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:23:20.979 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:23:20.989 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:23:20.990 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:23:21.023 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:23:21.036 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:54:28.766 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:54:28.774 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:54:28.994 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:54:29.009 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:54:29.009 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Thu Sep  3 22:54:29.009 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 09:11:55.890 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 09:11:55.890 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 09:11:55.893 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 09:11:55.896 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 09:11:55.917 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 09:11:55.930 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 11:23:09.636 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 11:23:09.640 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 11:31:15.029 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 11:31:15.658 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 11:31:16.039 <airportd[209]> ERROR: sharingd (85294) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 11:31:16.068 <airportd[209]> ERROR: rapportd (85248) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 15:14:29.613 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events.private, will not register for event type 100
+Fri Sep  4 15:14:29.613 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events.private, will not register for event type 101
+Fri Sep  4 15:14:29.614 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events, but allowing anyways for event type 7
+Fri Sep  4 15:14:29.614 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events, but allowing anyways for event type 2
+Fri Sep  4 15:14:29.614 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Fri Sep  4 15:14:29.614 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events, but allowing anyways for event type 5
+Fri Sep  4 15:14:29.615 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events, but allowing anyways for event type 6
+Fri Sep  4 15:14:55.792 <airportd[243]> ERROR: rapportd (358) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 15:14:56.464 <airportd[243]> ERROR: sharingd (400) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 21:32:44.991 <airportd[243]> ERROR: sharingd (400) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 21:32:44.991 <airportd[243]> ERROR: rapportd (358) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:12:08.580 <airportd[243]> ERROR: sharingd (400) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:12:09.143 <airportd[243]> ERROR: rapportd (358) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:53:26.761 <airportd[243]> ERROR: sharingd (400) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:53:27.322 <airportd[243]> ERROR: rapportd (358) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:54:18.189 <airportd[243]> ERROR: rapportd (358) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:54:18.190 <airportd[243]> ERROR: sharingd (400) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:55:42.691 <airportd[243]> ERROR: sharingd (400) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:55:42.691 <airportd[243]> ERROR: rapportd (358) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:55:42.691 <airportd[243]> ERROR: sharingd (400) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:55:42.691 <airportd[243]> ERROR: rapportd (358) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:55:42.878 <airportd[243]> ERROR: rapportd (358) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:55:42.878 <airportd[243]> ERROR: sharingd (400) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:57:13.768  <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events.private, will not register for event type 100
+Fri Sep  4 22:57:13.769 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events.private, will not register for event type 101
+Fri Sep  4 22:57:13.769 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events, but allowing anyways for event type 7
+Fri Sep  4 22:57:13.769 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events, but allowing anyways for event type 2
+Fri Sep  4 22:57:13.769 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events, but allowing anyways for event type 1
+Fri Sep  4 22:57:13.769 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events, but allowing anyways for event type 5
+Fri Sep  4 22:57:13.770 <airportd[243]> ERROR: SecurityAgent (301) is not entitled for com.apple.wifi.events, but allowing anyways for event type 6
+Fri Sep  4 22:57:26.676 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Fri Sep  4 22:57:27.373 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 12:07:51.018 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 12:07:51.019 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 12:14:33.789  Sat Sep  5 12:14:33.847 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 12:14:33.848 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 12:14:33.931 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 12:14:33.931 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 12:14:33.933 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 12:14:33.933 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 12:14:34.037 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 12:14:34.038 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 20:55:35.974 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 20:55:35.980 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 20:55:35.980 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 20:55:35.986 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 20:55:36.124 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 20:55:36.124 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 22:52:40.116 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sat Sep  5 22:52:40.117 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 09:53:39.640 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 09:53:39.904 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 11:40:55.006  Sun Sep  6 11:40:55.079 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 11:40:55.085 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 11:40:55.171 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 11:40:55.174 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 11:40:55.192 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 11:40:55.215 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 11:40:55.246 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 11:40:55.247 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 12:57:43.564 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 12:57:43.564 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 12:57:44.277 <airportd[243]> ERROR: sharingd (409) is not entitled for com.apple.wifi.join_history, will not allow request
+Sun Sep  6 12:57:44.280 <airportd[243]> ERROR: rapportd (355) is not entitled for com.apple.wifi.join_history, will not allow request
