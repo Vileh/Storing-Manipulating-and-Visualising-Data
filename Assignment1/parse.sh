@@ -22,7 +22,7 @@ grep -E '[1|2][0-9]{3}' Input/Q1a.txt > Output/A1a.txt
 # - To take a look at the test input
 #   look at Input/Q1b.txt
 # -----------------------------------------
-grep -E '' Input/Q1b.txt > Output/A1b.txt
+grep -E '^(Audrey:)|(Audry:)|(Audi:)' Input/Q1b.txt > Output/A1b.txt
 
 
 
@@ -32,4 +32,4 @@ grep -E '' Input/Q1b.txt > Output/A1b.txt
 # - To take a look at the test input
 #   look at Input/Q1c.txt
 # -----------------------------------------
-grep -E '' Input/Q1c.txt > Output/A1c.txt
+grep -E '(January|February|March|April|May|June|July|August|September|October|November|December) [123]?[0-9]..\.' Input/Q1c.txt > Output/A1c.txt
