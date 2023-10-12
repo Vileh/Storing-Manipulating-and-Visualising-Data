@@ -2,9 +2,11 @@ Audrey:		Good morning, Mr Mushnik.
 Audrey:		I'm sorry Mr Mushnik.
 Audrey:		Shiner?
 Audrey:		You don't meet nice boys when you live on Skid Row, Mr Mushnik
+Audrey :		Don't yell at Seymour, Mr Mushnik.
 Audrey:		I'll help him clean it up before any of the customers get
 Audrey:		Where the guys are drips
 Audrey:		Where they rip your slips
+Audrey :		You don't mean...
 Audrey:		You can't
 Audrey:		What Seymour's trying to say, Mr Mushnik, is... Well,
 Audrey:		There. Now, isn't that bizarre?
@@ -12,10 +14,14 @@ Audrey:		(Deeply moved) After me?
 Audrey:		It's an Audrey II.
 Audrey:		Twice as many!
 Audrey:		Thank you!
+Audry :		Oh, I'd love to, Mr Mushnik, but I have a date.
+Audry :		(Putting her coat on)  He's a professional.
 Audrey:		He's a rebel, Mr Mushnik, but he makes good money.
 Audrey:		Hi Crystal, hi Ronette, hi Chiffon. Am I late? Did I miss
 Audrey:		No, just handcuffed, a little.
 Audrey:		That's for sure. But I can't leave him.
+Audry :		He'd get angry. And if he does this when he likes me,
+Audi :		Seymour?
 Audi:		Oh, we're just friends. I could never be Seymour's girl. I
 Audrey:		I don't even deserve a sweet, considerate... suddenly
 Audrey:		Oh no. It's just a day dream of mine. A little development
@@ -59,6 +65,9 @@ Audrey:		They suspect foul play.
 Audrey:		His receptionist, this morning, found the place a shambles.
 Audrey:		Seymour, what a thing to say!
 Audrey:		It wouldn't be terrible at all. It'd be a miracle. Not to
+Audrey :x		But I'd still feel guilty. If he met with foul play or some
+Audrey :x		I don't deserve a nice guy, Seymour.
+Audrey :x		You don't know the half of it! I've led a terrible life. I
 Audrey:		You know where I met him? In The Gutter.
 Audrey:		The Gutter. It's a nightspot. I worked there on my nights
 Audrey:		You're a very nice person. I always knew you were.

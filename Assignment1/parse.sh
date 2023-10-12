@@ -13,7 +13,7 @@
 # - To take a look at the test input
 #   look at Input/Q1a.txt
 # -----------------------------------------
-grep -E '[1|2][0-9]{3}' Input/Q1a.txt > Output/A1a.txt
+grep -E '\b[1|2][0-9]{3}' Input/Q1a.txt > Output/A1a.txt
 
 
 # -----------------------------------------
@@ -22,7 +22,7 @@ grep -E '[1|2][0-9]{3}' Input/Q1a.txt > Output/A1a.txt
 # - To take a look at the test input
 #   look at Input/Q1b.txt
 # -----------------------------------------
-grep -E '^(Audrey:)|(Audry:)|(Audi:)' Input/Q1b.txt > Output/A1b.txt
+grep -E '^(Audrey ?:)|(Audry ?:)|(Audi ?:)' Input/Q1b.txt > Output/A1b.txt
 
 
 
